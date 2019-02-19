@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>United Thinkers Test Assignment</title>
+    <title>City Issue</title>
   </head>
   <body>
-  <h1 align="center" style="color:#0000cb">United Thinkers Test Assignment</h1>
+  <h1 align="center" style="color:#0000cb">City Issue Website</h1>
 
   <h2 align="center" style="color:#ff3a28">Access denied!</h2>
 
